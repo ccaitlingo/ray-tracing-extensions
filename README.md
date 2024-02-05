@@ -1,5 +1,5 @@
-# ray-tracing-one-wknd
-My implementation of Peter Shirley's "Ray Tracing in One Weekend"
+# ray-tracing-extensions
+My implementation and extension of Peter Shirley's "Ray Tracing in One Weekend"
 
 ## Development Instructions
 1. Open with VS Code Developer command prompt
