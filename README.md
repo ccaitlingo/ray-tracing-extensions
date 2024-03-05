@@ -15,3 +15,8 @@ Emission: Modification of ray_color method and creation of emissive material sub
 
 ![ray_tracing_extensions_before](https://github.com/ccaitlingo/ray-tracing-extensions/assets/122246189/1b9bd041-c6d7-4a82-a6b7-2f6a8067732f)
 ![ray_tracing_extensions_after](https://github.com/ccaitlingo/ray-tracing-extensions/assets/122246189/aa730adf-8df1-419f-8bbd-26530a3053ec)
+
+Object Imports: Creation of triangle_plane class (Möller–Trumbore ray triangle intersection to implement "hit" method). Creation of parser class to read imported .obj or .blend files (after they are converted to .txt), which parse the vertices and faces, extracting information to make the triangles, and adds the triangle mesh to the world.
+
+![gem](https://github.com/ccaitlingo/ray-tracing-extensions/assets/122246189/8e6208cf-eeb4-44b9-9878-2b3b8f216166)
+![heart](https://github.com/ccaitlingo/ray-tracing-extensions/assets/122246189/90bca1d5-8c62-40db-b4d2-0d512391f275)
