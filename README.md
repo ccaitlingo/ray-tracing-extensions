@@ -4,7 +4,7 @@ My implementation and extension of Peter Shirley's "Ray Tracing in One Weekend"
 ## Development Instructions
 1. Open with VS Code Developer command prompt
 2. Run Build Task (Ctrl + Shift + B)
-3. Run (top right-hand corner)
+3. No need to run
 4. src/main.exe > ppms/render_title.ppm
 5. To view your rendered image, upload the .ppm to [PPM Viewer](https://www.cs.rhodes.edu/welshc/COMP141_F16/ppmReader.html)
 
@@ -20,3 +20,5 @@ Object Imports: Creation of triangle_plane class (Möller–Trumbore ray triangl
 
 ![gem](https://github.com/ccaitlingo/ray-tracing-extensions/assets/122246189/8e6208cf-eeb4-44b9-9878-2b3b8f216166)
 ![heart](https://github.com/ccaitlingo/ray-tracing-extensions/assets/122246189/90bca1d5-8c62-40db-b4d2-0d512391f275)
+![gem_pos_1](https://github.com/ccaitlingo/ray-tracing-extensions/assets/122246189/ae471b67-de75-4c44-9e71-964af48af483)
+![heart_pos_1](https://github.com/ccaitlingo/ray-tracing-extensions/assets/122246189/74edcef8-1ed7-4355-94f8-1f43be88225a)
